@@ -34,6 +34,33 @@
     </item>
     
     <item>
+      <title>Software Carpentry Mentor &amp; Instructor</title>
+      <link>/marschmi.github.io/project/swcarpentry/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/marschmi.github.io/project/swcarpentry/</guid>
+      <description>&lt;p&gt;I am the co-chair of the mentoring subcommittee and an instructor for the Software Carpentry organization. Software Carpentry&amp;rsquo;s mission is to increase programming and bioinformatics literacy through 2-day workshops which cover various programming languages such as &lt;code&gt;unix&lt;/code&gt;,&lt;code&gt;git&lt;/code&gt;, &lt;code&gt;R&lt;/code&gt;, &lt;code&gt;python&lt;/code&gt;, &lt;code&gt;SQL&lt;/code&gt;, and &lt;code&gt;matlab&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have co-taught 7 workshops and helped out at 1 workshopincluding:&lt;/p&gt;
+
+&lt;p&gt;2017&lt;br /&gt;
+- October: &lt;strong&gt;Co-Instructor&lt;/strong&gt;, University of Michigan &lt;a href=&#34;https://umswc.github.io/2017-10-16-umswc/ &#34; target=&#34;_blank&#34;&gt;Open workshop&lt;/a&gt;. Co-taught with science librarian extraordinaire, Scott Martin.&lt;br /&gt;
+- September: &lt;strong&gt;Lead-Instructor&lt;/strong&gt;, Ghent University &lt;a href=&#34;https://marschmi.github.io/2017-09-14-gent-cmet/&#34; target=&#34;_blank&#34;&gt;Center for Microbial Ecology and Technology&lt;/a&gt;. Co-taught with two fellow microbial ecologists  Dr. ir. Frederiek-Maarten Kerckhof and Ruben Props.&lt;br /&gt;
+- January: &lt;strong&gt;Co-Instructor&lt;/strong&gt;, University of Michigan &lt;a href=&#34;https://umswc.github.io/2017-01-17-UMich/&#34; target=&#34;_blank&#34;&gt;Department of Microbiology workshop&lt;/a&gt;. Co-taught with my PhD committee member, Dr. Pat Schloss.&lt;/p&gt;
+
+&lt;p&gt;2016:&lt;br /&gt;
+- October: &lt;strong&gt;Co-Instructor&lt;/strong&gt;, University of Michigan&lt;a href=&#34;https://umswc.github.io/2016-10-27-umswc-hg/&#34; target=&#34;_blank&#34;&gt;Department of Human Genetics&lt;/a&gt;. Co-taught with the two amazing early career scientists: Akima George &amp;amp; Dr. Marc Sze.&lt;br /&gt;
+- October: &lt;strong&gt;Co-Instructor&lt;/strong&gt;, University of Michigan&lt;a href=&#34;https://github.com/arthur-e/2016-10-17-EEB-SNRE&#34; target=&#34;_blank&#34;&gt;Joint Ecology &amp;amp; Evolutionary Biology &amp;amp; School of Natural Resources and Environment workshop&lt;/a&gt;. Co-taught with the very talented K. Arthur Endsley.&lt;br /&gt;
+- January: &lt;strong&gt;Lead-Instructor&lt;/strong&gt;, University of Michigan&lt;a href=&#34;http://umswc.github.io/2016-01-04-wise-umich/&#34; target=&#34;_blank&#34;&gt;Women in Science and Engineering Workshop&lt;/a&gt;. Co-taught with brilliant first-time instructors Alix Keener, Akima George, and Dr. Ginger Allington.&lt;/p&gt;
+
+&lt;p&gt;2015&lt;br /&gt;
+- October: &lt;strong&gt;Co-Instructor&lt;/strong&gt;, University of Michigan&lt;a href=&#34;http://umswc.github.io/2015-10-19-UMich/&#34; target=&#34;_blank&#34;&gt;Department of Human Genetics&lt;/a&gt;. Co-taught with the skilled programmer, Michelle Berry.&lt;br /&gt;
+- May: &lt;strong&gt;I became a certified Software Carpentry Instructor&lt;/strong&gt; after participating in an eye-opening and informative training with Dr. Greg Wilson and Dr. Tracy Teal.&lt;br /&gt;
+- January: &lt;strong&gt;Helper&lt;/strong&gt;, University of Michigan&lt;a href=&#34;http://danabauer.github.io/2015-01-05-wise-umich/&#34; target=&#34;_blank&#34;&gt;Women in Science and Engineering Workshop&lt;/a&gt;. This was my first ever Software Carpentry workshop!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Flow cytometric monitoring of bacterioplankton phenotypic diversity predicts high population-specific feeding rates by invasive dreissenid mussels</title>
       <link>/marschmi.github.io/publication/2017-props-mussels/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
@@ -57,15 +84,6 @@
       <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/marschmi.github.io/publication/2016-denef-rna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Carpentry</title>
-      <link>/marschmi.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/marschmi.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
