@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/marschmi.github.io/project/femmes/</loc>
+      <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/marschmi.github.io/publication/2017-props-mussels/</loc>
       <lastmod>2017-09-30T00:00:00+00:00</lastmod>
     </url>
@@ -41,6 +50,15 @@
     
     <url>
     
+      <loc>/marschmi.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/marschmi.github.io/publication/2016-phd-chapter1/</loc>
       <lastmod>2016-01-18T00:00:00+00:00</lastmod>
     </url>
@@ -69,8 +87,38 @@
     
     <url>
     
+      <loc>/marschmi.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/marschmi.github.io/tags/diversity/</loc>
+      <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/marschmi.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/marschmi.github.io/project/</loc>
+      <lastmod>2018-01-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -90,6 +138,17 @@
     <url>
     
       <loc>/marschmi.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/marschmi.github.io/tags/women-in-science/</loc>
+      <lastmod>2018-01-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

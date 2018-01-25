@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marian L. Schmidt on Marian L. Schmidt</title>
-    <link>/marschmi.github.io/</link>
-    <description>Recent content in Marian L. Schmidt on Marian L. Schmidt</description>
+    <title>Projects on Marian L. Schmidt</title>
+    <link>/marschmi.github.io/project/</link>
+    <description>Recent content in Projects on Marian L. Schmidt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/marschmi.github.io/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/marschmi.github.io/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FEMMES E-Board</title>
@@ -34,47 +34,11 @@
     </item>
     
     <item>
-      <title>Flow cytometric monitoring of bacterioplankton phenotypic diversity predicts high population-specific feeding rates by invasive dreissenid mussels</title>
-      <link>/marschmi.github.io/publication/2017-props-mussels/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/marschmi.github.io/publication/2017-props-mussels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Growth of magnetotactic sulfate-reducing bacteria in oxygen concentration gradient medium</title>
-      <link>/marschmi.github.io/publication/2016-lefevre-sulfate/</link>
-      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/marschmi.github.io/publication/2016-lefevre-sulfate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seasonal Succession Leads to Habitat-Dependent Differentiation in Ribosomal RNA:DNA Ratios among Freshwater Lake Bacteria</title>
-      <link>/marschmi.github.io/publication/2016-denef-rna/</link>
-      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/marschmi.github.io/publication/2016-denef-rna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software Carpentry</title>
       <link>/marschmi.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/marschmi.github.io/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phylogenetic conservation of freshwater lake habitat preference varies between abundant bacterioplankton phyla</title>
-      <link>/marschmi.github.io/publication/2016-phd-chapter1/</link>
-      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/marschmi.github.io/publication/2016-phd-chapter1/</guid>
       <description></description>
     </item>
     
